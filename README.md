@@ -2,7 +2,7 @@
 
 ### Authors: Luca Scimeca (luca.scimeca@live.com) & Cheryn Ng (cheryn97@gmail.com)
 
-![](/assets/piano_playing_palpation_short.gif | width=100)
+![Alt Text](https://github.com/lucascimeca/robo_piano_learning/blob/master/assets/piano_playing_palpation_short.gif)
 
 
 This repository contains code and data for the "Robot Piano Learning" project in the Engineering Department of the University of Cambridge, under the supervision of Fumiya Iida. 
